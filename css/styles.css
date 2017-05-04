@@ -1,0 +1,35 @@
+img {
+  width: 400px;
+}
+
+#surya, #vijay, #vishal, #simbu {
+  display: none;
+  text-align: center;
+}
+
+body {
+  background-color: pink;
+}
+
+#celebrity-date {
+  color: purple;
+  background-color: lightgreen;
+  font-size: 30px;
+  font-style: italic;
+  font-family: cursive;
+  text-align: center;
+}
+
+h1,h3 {
+  color: purple;
+  font-size: 25px;
+  font-style: italic;
+  font-family: cursive;
+}
+
+p {
+  color : teal;
+  font-size: 30px;
+  font-style: italic;
+  font-family: cursive;
+}
